@@ -1,0 +1,33 @@
+.heading 
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer
+{
+    float: none;
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    bottom: 0px;
+    line-height: 3;
+}
+
+.instructions
+{
+    text-align: center;
+    color: yellow;
+    font-family: cursive;
+    font-size: 16;
+}
+
+canvas
+{
+    border: 5px dotted blueviolet;
+    background-color: grey;
+    border-width: 5px
+}
